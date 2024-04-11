@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about<strong>Python, Data Science and My SQL </strong>
 - 🌱 I’m currently learning<strong>Machine learning and AI </strong>
-- 📫 How to reach me: <a herf="https://www.linkedin.com/in/bhavana-tallapaka-078083240/" target="_bank">Bhavana Tallapaka</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/bhavana-tallapaka-078083240/" target="_blank">Bhavana Tallapaka</a>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BhavanaTallapaka&show_icons=true" alt="BhavanaTallapaka">
