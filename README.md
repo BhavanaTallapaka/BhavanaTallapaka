@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about<strong>Python, Data Science and My SQL </strong>
 - 🌱 I’m currently learning<strong>Machine learning and AI </strong>
 - 📫 How to reach me: <a herf="https://www.linkedin.com/in/bhavana-tallapaka-078083240/" target="_bank">Bhavana Tallapaka</a>
-- ⚡ Fun fact: I also have a YouTube Channel <a herf="https://www.youtube.com/@uniqueedits2596" target="_blank">Unique edits 🥶</a>
+- ⚡ Fun fact:I also run a YouTube Channel <a href="www.youtube.com/@uniqueedits2596" target="_blank">Unique edits 🥶 YouTube</a>
 
 <p align="center">
   <a href="https://www.youtube.com/@uniqueedits2596" target="_blank"><img src="https://github.com/BhavanaTallapaka/BhavanaTallapaka/blob/main/finallogo1.jpg" height="200" width="220"> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
