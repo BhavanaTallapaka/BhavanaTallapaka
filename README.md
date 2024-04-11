@@ -23,6 +23,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I also have a YouTube Channel <a herf="https://www.youtube.com/@uniqueedits2596" target="_blank">Unique edits 🥶</a>
 
 <p align="center">
+  <a href="https://www.youtube.com/@uniqueedits2596" target="_blank"><img src="https://github.com/BhavanaTallapaka/BhavanaTallapaka/blob/main/finallogo1.jpg" height="200" width="220"> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=BhavanaTallapaka&show_icons=true" alt="BhavanaTallapaka">
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/bhavana-tallapaka-078083240/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
