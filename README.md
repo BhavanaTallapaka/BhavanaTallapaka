@@ -1,27 +1,104 @@
-### Hi there 👋
+# 👋 Hi, I'm Bhavana Tallapaka
 
-<!--
-**BhavanaTallapaka/BhavanaTallapaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Graduate | 💻 Software Developer | 📊 Data Science Enthusiast
 
-Here are some ideas to get you started:
+I enjoy building applications that combine **data, AI, and software engineering**.
+Currently exploring **Machine Learning, AI systems, and full-stack development with .NET and React**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-<h1 align="center">Hi there, I am Bhavana Tallapaka 👋</h1>
+## 🚀 About Me
 
-- 💬 Ask me about<strong>Python, Data Science and My SQL </strong>
-- 🌱 I’m currently learning<strong>Machine learning and AI </strong>
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/bhavana-tallapaka-078083240/" target="_blank">Bhavana Tallapaka</a>
+* 🌱 Currently learning **Machine Learning & Artificial Intelligence**
+* 💻 Strong interest in **Data Science, AI, and Software Development**
+* ⚙️ Experience working with **.NET, Blazor, C#, Python, and SQL**
+* 📊 Love building **data analysis and visualization projects**
+* 🌍 Based in **Hyderabad, India**
+
+---
+
+## 🧑‍💻 Experience
+
+**Tech Learner — Threat Intelligence Bureau Ltd**
+
+* Worked on **Sales & Task Management System**
+* Built features using **.NET, Blazor, C#, Entity Framework**
+* Implemented **dashboard charts and relational data handling**
+
+---
+
+## 🛠️ Skills
+
+**Programming**
+
+```
+Python • C# • Java • SQL
+```
+
+**Frameworks & Tools**
+
+```
+.NET • Blazor • React • FastAPI
+```
+
+**Data & AI**
+
+```
+Machine Learning • Data Analysis • Data Visualization • Jupyter
+```
+
+**Other Tools**
+
+```
+Git • GitHub • VS Code • Visual Studio
+```
+
+---
+
+## 📌 Featured Projects
+
+### 📊 Sales Management System
+
+* Built using **Blazor + .NET + Entity Framework**
+* Dashboard showing **sales analytics and task tracking**
+* Relational database with seeded sales data
+
+### 🎬 IMDB Dataset Analysis
+
+* Data exploration using **Python and Jupyter Notebook**
+* Performed **data cleaning, analysis, and visualization**
+
+### 🔗 Blockchain Smart City Framework
+
+* Research project focusing on **IoT data security and privacy**
+* Designed blockchain-based architecture for **secure smart city data**
+
+### 🌐 Personal Portfolio Website
+
+* Built responsive portfolio showcasing projects and skills
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bhavana-tallapaka-078083240/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30"></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://github-readme-stats.vercel.app/api?username=BhavanaTallapaka&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhavanaTallapaka&layout=compact&theme=tokyonight"/>
+
 </p>
+
+---
+
+## 🌐 Connect With Me
+
+💼 LinkedIn
+https://www.linkedin.com/in/bhavana-tallapaka-078083240/
+
+🌐 Portfolio
+https://bhavana-portfolio-gz0h.onrender.com
+
+---
+
+⭐ *Thanks for visiting my profile!*
