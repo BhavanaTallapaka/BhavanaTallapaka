@@ -1,19 +1,24 @@
-# 👋 Hi, I'm Bhavana Tallapaka
+<h1 align="center">
+Hi 👋, I'm Bhavana Tallapaka
+</h1>
 
-🎓 B.Tech Graduate | 💻 Software Developer | 📊 Data Science Enthusiast
+<h3 align="center">
+Data Science Enthusiast | AI Learner | .NET & Blazor Developer
+</h3>
 
-I enjoy building applications that combine **data, AI, and software engineering**.
-Currently exploring **Machine Learning, AI systems, and full-stack development with .NET and React**.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Machine+Learning+Learner;Blazor+.NET+Developer;Python+%7C+SQL+%7C+AI+Projects" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-* 🌱 Currently learning **Machine Learning & Artificial Intelligence**
-* 💻 Strong interest in **Data Science, AI, and Software Development**
-* ⚙️ Experience working with **.NET, Blazor, C#, Python, and SQL**
-* 📊 Love building **data analysis and visualization projects**
-* 🌍 Based in **Hyderabad, India**
+* 🎓 B.Tech Graduate
+* 💻 Interested in **Data Science, Machine Learning, and AI**
+* 🧠 Currently learning **Machine Learning and Artificial Intelligence**
+* ⚙️ Working with **Python, .NET, Blazor, C#, SQL**
+* 🧪 Love building **data analysis and AI-based applications**
 
 ---
 
@@ -21,37 +26,37 @@ Currently exploring **Machine Learning, AI systems, and full-stack development w
 
 **Tech Learner — Threat Intelligence Bureau Ltd**
 
-* Worked on **Sales & Task Management System**
-* Built features using **.NET, Blazor, C#, Entity Framework**
-* Implemented **dashboard charts and relational data handling**
+* Developed **Sales & Task Management System**
+* Built using **.NET, Blazor, C#, Entity Framework**
+* Implemented **dashboard analytics and relational data models**
 
 ---
 
-## 🛠️ Skills
+## 🛠 Tech Stack
 
-**Programming**
+### Programming Languages
 
-```
-Python • C# • Java • SQL
-```
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge\&logo=c-sharp\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-**Frameworks & Tools**
+---
 
-```
-.NET • Blazor • React • FastAPI
-```
+### Frameworks & Tools
 
-**Data & AI**
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-5C2D91?style=for-the-badge\&logo=blazor\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
 
-```
-Machine Learning • Data Analysis • Data Visualization • Jupyter
-```
+---
 
-**Other Tools**
+### Data Science & AI
 
-```
-Git • GitHub • VS Code • Visual Studio
-```
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
 
 ---
 
@@ -59,27 +64,45 @@ Git • GitHub • VS Code • Visual Studio
 
 ### 📊 Sales Management System
 
-* Built using **Blazor + .NET + Entity Framework**
-* Dashboard showing **sales analytics and task tracking**
-* Relational database with seeded sales data
+Built using **Blazor + .NET + Entity Framework**
 
-### 🎬 IMDB Dataset Analysis
+Features:
 
-* Data exploration using **Python and Jupyter Notebook**
-* Performed **data cleaning, analysis, and visualization**
-
-### 🔗 Blockchain Smart City Framework
-
-* Research project focusing on **IoT data security and privacy**
-* Designed blockchain-based architecture for **secure smart city data**
-
-### 🌐 Personal Portfolio Website
-
-* Built responsive portfolio showcasing projects and skills
+* Sales tracking
+* Task management
+* Dashboard analytics
+* Relational database
 
 ---
 
-## 📈 GitHub Stats
+### 🎬 IMDB Dataset Analysis
+
+Python data analysis project using **Pandas, Matplotlib, and Jupyter Notebook**
+
+Features:
+
+* Data cleaning
+* Visualization
+* Insights from movie dataset
+
+---
+
+### 🔐 Blockchain Smart City Framework
+
+Research project focusing on **secure IoT data management using blockchain**
+
+---
+
+### 🌐 Personal Portfolio Website
+
+Responsive portfolio showcasing **projects, skills, and GitHub work**
+
+Portfolio
+https://bhavana-portfolio-gz0h.onrender.com
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
 
@@ -91,14 +114,40 @@ Git • GitHub • VS Code • Visual Studio
 
 ---
 
-## 🌐 Connect With Me
+## 🔥 GitHub Streak
 
-💼 LinkedIn
-https://www.linkedin.com/in/bhavana-tallapaka-078083240/
+<p align="center">
 
-🌐 Portfolio
-https://bhavana-portfolio-gz0h.onrender.com
+<img src="https://streak-stats.demolab.com/?user=BhavanaTallapaka&theme=tokyonight"/>
+
+</p>
 
 ---
 
-⭐ *Thanks for visiting my profile!*
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BhavanaTallapaka&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/bhavana-tallapaka-078083240/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://bhavana-portfolio-gz0h.onrender.com">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+⭐ *Thanks for visiting my GitHub profile!*
